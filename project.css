@@ -1,9 +1,39 @@
 
 .inter-uniquifier {
-    font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
-    font-variation-settings:
-      "slnt" 0;
-  }
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
+.heading{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: black;
+  font-variation-settings:
+    "slnt" 0;
+    font-size: 48px;
+}
+h3{
+  font-family: "Inter", sans-serif;
+  font-size:32px;
+  font-style:medium;
+  
+}
+.portfolio_name{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: bold;
+  font-variation-settings:
+    "slnt" 0;
+    font-size: 48px;
+    padding-top: 30px;
+}
+.hero{
+  text-align: center;
+  padding: 90px;
+  background-color: #FFE2FD;
+}
