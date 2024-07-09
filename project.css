@@ -1,4 +1,6 @@
 
+
+
 .inter-uniquifier {
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
@@ -37,3 +39,94 @@ h3{
   padding: 90px;
   background-color: #FFE2FD;
 }
+/*button css*/
+.homepage-buttons{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 40px;
+}
+.btn-work{
+background-color:#F4A1F0 ;
+padding:10px 20px;
+border-radius: 30px;
+color: black;
+font-family: "Inter", sans-serif;
+font-weight: bold;
+text-decoration: none;
+cursor: pointer;
+}
+.btn-work:hover{
+  background-color: #FFE2FD;
+  transition:0.8 ease-out ;
+}
+.btn-about{
+background-color:#C5F27C ;
+padding:10px 20px;
+border-radius: 30px;
+color: black;
+font-family: "Inter", sans-serif;
+font-weight: bold;
+text-decoration: none;
+cursor: pointer;
+}
+.btn-about:hover{
+  background-color: #cff5a7;
+  transition:0.8 ease-out ;
+}
+.btn-contact{
+  background-color:#ED9E54 ;
+  padding:10px 20px;
+  border-radius: 30px;
+  color: black;
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+  }
+  .btn-contact:hover{
+    background-color: #f7dda4;
+    transition:0.8 ease-out ;
+  }
+  .images{
+    display: flex;
+    justify-content: space-around;
+  padding-top: 40px;
+  }
+  .image1{
+    width:429px;
+    height:386px;
+    border-radius: 20px;
+  }
+  .app-title{
+    font-family: "Inter", sans-serif;
+    font-weight: bold;
+    font-size:20px;
+    text-align: center;
+    padding-top:10px;
+  }
+  .weather-link{
+    font-family: "Inter", sans-serif;
+    text-decoration: none;
+    color: #EC7B12;
+    padding-left: 170px;
+    font-weight: bold;
+    font-size:20px;
+  }
+  .daisies-link{
+    font-family: "Inter", sans-serif;
+    text-decoration: none;
+    color: #92AB4B;
+    padding-left: 170px;
+    font-weight: bold;
+    font-size:20px;
+  }
+  .scrunchie-link{
+    font-family: "Inter", sans-serif;
+    text-decoration: none;
+    color: #DE3EB1;
+    font-weight: bold;
+    font-size:20px;
+    padding-left: 170px;
+    padding-bottom: 50px;
+  }
+  
