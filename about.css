@@ -111,6 +111,7 @@ nav{
 .logo{
     max-height: 70px;
     margin-top:0px ;
+    margin-left:20px;
 }
 nav li{
     display: inline;
