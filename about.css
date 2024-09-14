@@ -87,6 +87,44 @@ text-align: center;
 .img-fluid mb-3 rounded{
     background-color: #fff0fe;
 }
+.contact-me-container{
+    margin-top: 30px;
+}
+.contact-me-content{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: #fff0fe;
+    padding: 20px;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 30px;
+    border-radius: 20px;
+    border-style:solid;
+    border-color: #ED9E54;
+}
+.h1-contact{
+   text-align: center;
+}
+.my-email{
+    text-align: center;
+    margin-top: 15px;
+}
+.button {
+    padding: 10px 20px;
+    border-radius: 30px;
+    color: black;
+    font-family: "Inter", sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: #ED9E54;
+    margin-top: 20px;
+    border-style: none;
+}
+.button:hover {
+    background-color: #f7dda4;
+    transition: 0.8s ease-out;
+}
 @media (min-width: 769px) {
     .about-me-content {
         flex-direction: row;
