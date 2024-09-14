@@ -80,7 +80,13 @@ a {
     color: #C5F27C;
     text-decoration: none;
 }
-
+.mb-5{
+margin-top: 20px;
+text-align: center;
+}
+.img-fluid mb-3 rounded{
+    background-color: #fff0fe;
+}
 @media (min-width: 769px) {
     .about-me-content {
         flex-direction: row;
